@@ -13,8 +13,6 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="38dp"
-        android:layout_alignTop="@+id/text"
-        android:layout_centerHorizontal="true"
         android:layout_gravity="center"
         android:text="@string/map_route"
         android:textColor="#ffffff"
@@ -25,7 +23,6 @@
         android:id="@+id/img"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_centerInParent="true"
         android:contentDescription="@string/todo" />
 
     <!-- 標籤切換的內容文字 -->
